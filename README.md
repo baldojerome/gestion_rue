@@ -22,8 +22,6 @@ Utilisation de la liste de la STL.
 
 • Afficher toutes les maisons de la rue (et le nombre de maisons)
 
-Consignes supplémentaires
-
 • Chaque maison est représentée par un entier (int) dans la liste
 
 • Il est impossible d’ajouter 2 maisons avec la même adresse
